@@ -13,6 +13,7 @@ public class IsPrime {
         int sum =0;
         for (int i = 2; i <= 100; i++) {
             boolean isPrime = true;
+            //表示可能的因子区间
             for (int j = 2; j <= Math.sqrt(i); j++) {
                 if (i % j == 0) {
                     isPrime = false;
