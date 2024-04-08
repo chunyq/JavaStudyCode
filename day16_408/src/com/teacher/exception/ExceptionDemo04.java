@@ -1,4 +1,4 @@
-package com.yh.exception;
+package com.teacher.exception;
 
 import java.io.FileNotFoundException;
 import java.text.ParseException;

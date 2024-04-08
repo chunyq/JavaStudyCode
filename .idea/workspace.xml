@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b5bb4d7-a4ff-4ec9-9a56-332941e60c4f" name="Changes" comment="上课代码">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1b5bb4d7-a4ff-4ec9-9a56-332941e60c4f" name="Changes" comment="上课代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +180,7 @@
       <workItem from="1712450030049" duration="5055000" />
       <workItem from="1712472915151" duration="1043000" />
       <workItem from="1712473981475" duration="4192000" />
-      <workItem from="1712539734161" duration="13022000" />
+      <workItem from="1712539734161" duration="13789000" />
     </task>
     <task id="LOCAL-00001" summary="2024.3.29代码&#10;学习了接口、抽象类、继承">
       <created>1711711593691</created>
@@ -212,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712564980059</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="上课代码">
+      <created>1712566519106</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712566519106</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
