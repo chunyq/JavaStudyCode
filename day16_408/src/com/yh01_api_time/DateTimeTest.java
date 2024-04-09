@@ -58,8 +58,7 @@ public class DateTimeTest {
 
     @Test
     public void test3() throws ParseException {
-        SimpleDateFormat sdf = new SimpleDateFormat();
-        sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         //格式化：日期---->字符串
         Date date1 = new Date();
         String strDate = sdf.format(date1);
