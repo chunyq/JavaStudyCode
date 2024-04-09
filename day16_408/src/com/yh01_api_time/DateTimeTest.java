@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
@@ -104,10 +107,50 @@ public class DateTimeTest {
         System.out.println(date);
     }
 
+
+    //jdk8后的时间类
+    /*
+    * - 可变性：像日期和时间这样的类应该是不可变的。
+     - 偏移性：Date中的年份是从1900开始的，而月份都从0开始。
+     - 格式化：格式化只对Date有用，Calendar则不行。
+     - 此外，它们也不是线程安全的；不能处理闰秒等。
+    *
+    * */
     @Test
     public void test5() {
-        int[] a = new int[5];
-        Scanner sc = new Scanner(System.in);
+        String s1 = "hello";
+        String s2 = s1.replace('l', 'w'); //String的不可变性
+        System.out.println(s1);  //hello
+        //体会Calendar的可变性
+        Calendar calendar = Calendar.getInstance();
+        calendar.set(Calendar.DAY_OF_MONTH, 23); //初始是8
+        System.out.println(calendar.get(Calendar.DAY_OF_MONTH)); //23
+    }
+
+    @Test
+    public void test6() {
+        //偏移性：Date中的年份是从1900开始的，而月份都从0开始。
+        Date date = new Date(2024, 4, 8);
+        System.out.println(date);
+        //Thu May 08 00:00:00 CST 3924
+        //3924 = 1900 + 2024 May = April + 1
+    }
+
+
+    /*
+     * JDK8的api:LocalDate \ LocalTime \ LocalDateTime
+     * */
+    @Test
+    public void test7() {
+        //now():获取当前日期和时间对应的实例
+        LocalDate localDate = LocalDate.now();
+        LocalTime localTime = LocalTime.now();
+        LocalDateTime localDateTime = LocalDateTime.now();
+
+        System.out.println(localDate); //2024-04-08
+        System.out.println(localTime);//17:30:50.199698200
+        System.out.println(localDateTime);//2024-04-08T17:30:50.199698200
+
 
     }
 }
