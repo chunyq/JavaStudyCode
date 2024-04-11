@@ -29,10 +29,9 @@ public class Exer1 {
         for (String elements : s) {
             if (!allElements.add(elements)) {
                 chongFuElements.add(elements);
-            } else {
-                uniqueElements.add(elements);
             }
         }
+        uniqueElements.addAll(allElements);
         uniqueElements.removeAll(chongFuElements);
 
         System.out.println("所有元素组成的集合： " + allElements);

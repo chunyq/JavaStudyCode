@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b5bb4d7-a4ff-4ec9-9a56-332941e60c4f" name="Changes" comment="上课代码">
-      <change afterPath="$PROJECT_DIR$/day17_409/src/com/homework/extend/扩展作业.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/day18_410.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/homework/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/homework/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/homework/Exer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/CollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/HashCodeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/LinkedHashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/ListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/SetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/StudentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/teacher/VectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/yh1_list/1.List相关知识.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/yh1_list/2.ArrayList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/yh1_list/3.LinkedList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/yh1_list/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/yh1_list/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/yh1_list/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_410/src/com/yh2_collections/CollectionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/log4j_1_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaStudyCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaStudyCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day18_410/src/com/homework/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day18_410/src/com/homework/EmployeeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,31 +40,31 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/YunHeKnowledge/javaStudyCode/day17_409/src/com/teacher&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "F:/YunHeKnowledge/javaStudyCode/day17_409/src/com/teacher",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;GitIgnore&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\YunHeKnowledge\javaStudyCode\day17_409\src\com\teacher" />
@@ -209,6 +186,9 @@
       <workItem from="1712715155456" duration="5516000" />
       <workItem from="1712729072259" duration="1904000" />
       <workItem from="1712738848461" duration="8701000" />
+      <workItem from="1712748904758" duration="60000" />
+      <workItem from="1712751763247" duration="233000" />
+      <workItem from="1712795408242" duration="1578000" />
     </task>
     <task id="LOCAL-00001" summary="2024.3.29代码&#10;学习了接口、抽象类、继承">
       <created>1711711593691</created>
@@ -266,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712662363185</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="上课代码">
+      <created>1712748939112</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712748939112</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
