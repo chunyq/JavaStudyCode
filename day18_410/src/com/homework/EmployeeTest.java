@@ -12,8 +12,9 @@ import java.util.*;
 public class EmployeeTest {
     public static void main(String[] args) {
         List<Employee> employees = new ArrayList<>();
-        employees.add(new Employee("张三", 21, 4500));
-        employees.add(new Employee("老王", 23, 4500));
+        employees.add(new Employee("javk", 21, 4500));
+        employees.add(new Employee("mike", 21, 4500));
+        employees.add(new Employee("jack", 23, 4500));
         employees.add(new Employee("李四", 25, 5000));
         employees.add(new Employee("赵钱孙", 28, 6000));
 
@@ -23,9 +24,13 @@ public class EmployeeTest {
             //差值大于0，则o2更大排在前面，o1更小排后面，反之，则o2排后面，o1排前面
             public int compare(Employee o1, Employee o2) {
                 if (o1.getSalary() != o2.getSalary()) {
-                    return (int) (o2.getSalary() - o1.getSalary());
+                    return (int) Math.ceil(o2.getSalary() - o1.getSalary());
                 } else {
-                    return o2.getAge() - o1.getAge();
+                    if (o1.getAge() != o2.getAge()) {
+                        return o2.getAge() - o1.getAge();
+                    } else {
+                        return o2.getName().compareTo(o1.getName());
+                    }
                 }
             }
         });
