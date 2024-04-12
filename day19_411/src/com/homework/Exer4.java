@@ -22,7 +22,7 @@ import java.util.function.ToIntFunction;
 public class Exer4 {
     public static void main(String[] args) {
         //组装牌
-        //牌盒
+        //牌盒,将索引和牌面信息固定，再通过list去poker中定位牌
         HashMap<Integer, String> poker = new HashMap<>();
         //创建存储牌编号的集合
         ArrayList<Integer> list = new ArrayList<>();
