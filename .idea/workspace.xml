@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b5bb4d7-a4ff-4ec9-9a56-332941e60c4f" name="Changes" comment="上课代码">
-      <change afterPath="$PROJECT_DIR$/day20_412/day20_412.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_412/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_412/src/com/teacher/ArraysDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_412/src/com/teacher/StaticImportDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_412/src/com/teacher/generictype/GenericTypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_412/src/com/teacher/generictype/GenericTypeDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_412/src/com/teacher/generictype/RawType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_412/src/com/yh1_file/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_412/src/com/yh1_file/File类的使用.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day19_411/src/com/homework/Exer4.java" beforeDir="false" afterPath="$PROJECT_DIR$/day19_411/src/com/homework/Exer4.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b5bb4d7-a4ff-4ec9-9a56-332941e60c4f" name="Changes" comment="上课代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +190,7 @@
       <workItem from="1712751763247" duration="233000" />
       <workItem from="1712795408242" duration="8697000" />
       <workItem from="1712817488547" duration="18009000" />
-      <workItem from="1712883089579" duration="9046000" />
+      <workItem from="1712883089579" duration="9587000" />
     </task>
     <task id="LOCAL-00001" summary="2024.3.29代码&#10;学习了接口、抽象类、继承">
       <created>1711711593691</created>
@@ -288,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712884961184</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="上课代码">
+      <created>1712913753076</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712913753076</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

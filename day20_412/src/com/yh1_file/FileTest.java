@@ -44,6 +44,6 @@ public class FileTest {
         //public File(String parent,String child)
         //参数1：一定是文件目录
         //参数2：可以是一个文件，也可以是一个文件目录
-        new
+        
     }
 }
