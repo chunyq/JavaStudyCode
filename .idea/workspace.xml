@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b5bb4d7-a4ff-4ec9-9a56-332941e60c4f" name="Changes" comment="上课代码">
-      <change afterPath="$PROJECT_DIR$/day19_411/day19_411.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19_411/src/com/teacher/comparator/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19_411/src/com/teacher/comparator/MyComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19_411/src/com/teacher/comparator/TreeSetDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19_411/src/com/teacher/set/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19_411/src/com/teacher/set/TreeSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19_411/src/com/teacher/set/TreeSetDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/homework/Exer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/homework/Exer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/homework/Exer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/homework/Exer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/homework/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/homework/StudentTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/homework/StudentTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/teacher/map/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/yh1_map/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_411/src/com/yh1_map/Map相关知识点.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18_410/src/com/homework/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day18_410/src/com/homework/EmployeeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,31 +51,31 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "F:/YunHeKnowledge/javaStudyCode/day17_409/src/com/teacher",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Facets",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/YunHeKnowledge/javaStudyCode/day17_409/src/com/teacher&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "GitIgnore"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GitIgnore&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\YunHeKnowledge\javaStudyCode\day17_409\src\com\teacher" />
@@ -80,23 +83,10 @@
       <recent name="F:\YunHeKnowledge\javaStudyCode\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeTest">
-    <configuration name="CollectionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yh2_collections.CollectionsTest" />
-      <module name="day18_410" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yh2_collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.EmployeeTest" />
-      <module name="day18_410" />
+  <component name="RunManager" selected="Application.Exer4">
+    <configuration name="Exer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.Exer2" />
+      <module name="day19_411" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.homework.*" />
@@ -107,38 +97,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Exer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.Exer3" />
+      <module name="day19_411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.Exer4" />
+      <module name="day19_411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.StudentTest1" />
+      <module name="day19_411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.StudentTest2" />
+      <module name="day19_411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.homework.Exer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.homework.Exer1" />
-      <module name="day18_410" />
+      <module name="day19_411" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yh1_list.LinkedListDemo" />
-      <module name="day18_410" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yh1_list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yh1_list.ListDemo" />
-      <module name="day18_410" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yh1_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.Exer1" />
-        <item itemvalue="Application.CollectionsTest" />
-        <item itemvalue="Application.LinkedListDemo" />
-        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.Exer4" />
+        <item itemvalue="Application.Exer3" />
+        <item itemvalue="Application.Exer2" />
+        <item itemvalue="Application.StudentTest2" />
+        <item itemvalue="Application.StudentTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +212,9 @@
       <workItem from="1712738848461" duration="8701000" />
       <workItem from="1712748904758" duration="60000" />
       <workItem from="1712751763247" duration="233000" />
-      <workItem from="1712795408242" duration="7538000" />
+      <workItem from="1712795408242" duration="8697000" />
+      <workItem from="1712817488547" duration="18009000" />
+      <workItem from="1712883089579" duration="1768000" />
     </task>
     <task id="LOCAL-00001" summary="2024.3.29代码&#10;学习了接口、抽象类、继承">
       <created>1711711593691</created>
@@ -268,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712798636331</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="上课代码">
+      <created>1712808195834</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712808195834</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
